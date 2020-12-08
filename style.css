@@ -4,3 +4,7 @@
 .img-fluid {
 	border: thin solid lightgray;
 }
+
+a:link, a:visited {
+	color: white;
+}
